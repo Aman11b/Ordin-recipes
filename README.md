@@ -1,13 +1,26 @@
 # Odin Recipes
 
-This project is part of The Odin Project's curriculum. It involves building a simple recipe website to practice HTML skills. The website contains an index page with links to different recipes.
+This project is a basic recipe website created as part of The Odin Project. It showcases my understanding of HTML and my ability to build a structured web page with links to various recipes.
 
 ## Project Features
-- HTML structure and content organization
-- Linking between multiple pages
-- Basic navigation
-- Recipe content with images, descriptions, ingredients, and cooking steps
 
-## Advanced Features
-- Semantic HTML for accessibility
-- SEO-friendly structure
+- A main index page that links to several recipe pages.
+- Each recipe page contains:
+  - An image of the dish
+  - A description of the recipe
+  - An ingredients list
+  - Step-by-step instructions
+
+## Technologies Used
+
+- HTML
+
+## How to View the Project
+
+You can view the live project [here](https://Aman11b.github.io/odin-recipes/).
+
+## Future Improvements
+
+- Add CSS styling for better aesthetics.
+- Include more recipes.
+- Optimize images for faster loading.
