@@ -17,7 +17,7 @@ This project is a basic recipe website created as part of The Odin Project. It s
 
 ## How to View the Project
 
-You can view the live project [here](https://Aman11b.github.io/odin-recipes/).
+You can view the live project [here](https://aman11b.github.io/ordin-recipes/).
 
 ## Future Improvements
 
